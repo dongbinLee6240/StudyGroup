@@ -42,5 +42,23 @@
     <ClCompile Include="H-수열.cpp">
       <Filter>소스 파일\0주차</Filter>
     </ClCompile>
+    <ClCompile Include="I-나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="J-패션왕 신해빈.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="K-팰린드롬 만들기.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="L-주몽.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="M-좋은 단어.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="I-1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
