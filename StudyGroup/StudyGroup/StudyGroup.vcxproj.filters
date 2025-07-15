@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\0주차">
       <UniqueIdentifier>{b0e7757c-1600-4e82-a4e6-cb62eff82103}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1주차">
+      <UniqueIdentifier>{f34b41e6-c090-46ab-aa0f-b1160e586ea8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A-일곱난쟁이.cpp">
@@ -58,7 +61,13 @@
       <Filter>소스 파일\0주차</Filter>
     </ClCompile>
     <ClCompile Include="I-1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="N-곱셈.cpp">
+      <Filter>소스 파일\0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="J-기상캐스터.cpp">
+      <Filter>소스 파일\1주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

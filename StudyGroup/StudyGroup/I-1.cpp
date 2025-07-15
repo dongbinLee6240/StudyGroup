@@ -1,50 +1,26 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
-#include<string>
-
+#include <iostream>
 using namespace std;
 
-//정수론
-
-int main()
+int main() 
 {
-	cin.tie(0);
-	cout.tie(0);
-	ios::sync_with_stdio(false);
+    ios::sync_with_stdio(false);
+    cin.tie(0); 
+    cout.tie(0);
 
-	long long num;
-	//무한 루프
-	while (1)
-	{
-		cin >> num;
-		string eq;
-		int cnt;
+    long long num;
+    while (cin >> num) 
+    {
+        long long remainder = 1 % num;
+        int length = 1;
 
-		for (int i = 1; ; i++)
-		{
-			bool confirm = true;
-			cnt = 0;
-			eq = to_string(num * i); //string으로 변환
+        while (remainder != 0) 
+        {
+            remainder = (remainder * 10 + 1) % num;
+            length++;
+        }
 
-			for (int j = 0; j < eq.size(); j++) //기본적으로 confirm은 true
-			{
-				if (eq[j] == '1')
-				{
-					cnt++;
-				}
-				else
-					confirm = false; //하나라도 1이 아니면 false 처리
-			}
+        cout << length << '\n';
+    }
 
-			if (confirm == true)
-			{
-				break;
-			}
-		}
-
-		cout << cnt << '\n';
-	}
-
-	return 0;
+    return 0;
 }
