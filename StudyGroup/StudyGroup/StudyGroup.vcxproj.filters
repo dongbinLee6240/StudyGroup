@@ -82,6 +82,9 @@
       <Filter>소스 파일\1주차</Filter>
     </ClCompile>
     <ClCompile Include="D-영역구하기.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="F-사과 담기 게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
