@@ -85,6 +85,15 @@
       <Filter>소스 파일\1주차</Filter>
     </ClCompile>
     <ClCompile Include="F-사과 담기 게임.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="G-빈도정렬.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="H-비밀번호 발음하기.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="I-수학숙제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
