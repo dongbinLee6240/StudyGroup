@@ -3,10 +3,6 @@
 
 using namespace std;
 
-void climate()
-{
-
-}
 int main()
 {
 	//1분이 지날때마다 1킬로미터씩 동쪽으로 이동한다.

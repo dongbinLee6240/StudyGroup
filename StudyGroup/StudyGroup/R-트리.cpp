@@ -26,6 +26,7 @@ void bfs(vector<pair<int,int>>t,int del)
 				cout << 0;
 				return;
 			}
+			//즉 루트를 q에 push
 			q.push({ t[i].first,t[i].second });
 		}
 	}
@@ -39,7 +40,7 @@ void bfs(vector<pair<int,int>>t,int del)
 		for (int i = 0; i < t.size(); i++)
 		{
 			//자식이 삭제값이라면 애초에 큐에 넣지 않음
-			if (t[i].first == child && t[i].second != del)
+			if (t[i].first == child && t[i].second != del) //q에 추가하지 않은 노드들은 삭제하는 값들아래의 르짆아요
 			{
 				q.push({ t[i].first,t[i].second });
 				ischild = true;
@@ -54,6 +55,7 @@ void bfs(vector<pair<int,int>>t,int del)
 
 	std::cout << cnt;
 }
+
 int main()
 {
 	cin.tie(0); 

@@ -27,14 +27,11 @@ int dfs(vector<vector<int>>&map,vector<vector<bool>>&visited,
 	    if (map[ny][nx] == 1 && !visited[ny][nx])
 	    {
 		   cnt+=dfs(map, visited, nx, ny);
-		   
-	    }  
-	
+	    }
 	}
-
 	return cnt;
-	
 }
+
 int main()
 {
 	cin.tie(0); cout.tie(0);
@@ -73,6 +70,7 @@ int main()
 			}
 		}
 	}
+
 	vector<int>width;
 	for (int i = 0; i < M; i++)
 	{
