@@ -112,7 +112,13 @@
       <Filter>소스 파일\1주차</Filter>
     </ClCompile>
     <ClCompile Include="치즈.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="연구소.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="오큰수.cpp">
+      <Filter>소스 파일\1주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
