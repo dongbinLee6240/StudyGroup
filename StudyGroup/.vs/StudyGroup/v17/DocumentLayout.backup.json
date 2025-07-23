@@ -3,52 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC624\uD070\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC624\uD070\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC5F0\uAD6C\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCE58\uC988.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uCE58\uC988.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\R-\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC5F0\uAD6C\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\H-\uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAF43\uAE38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uAF43\uAE38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\NBA\uB18D\uAD6C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -59,28 +51,60 @@
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\NBA\uB18D\uAD6C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\R-\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\L-\uC8FC\uBABD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\I-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC624\uD070\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uC624\uD070\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -95,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\F-ROT13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\H-\uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uD55C\uAD6D\uC774 \uADF8\uB9AC\uC6B8 \uB550 \uC11C\uBC84\uB85C \uC811\uC18D\uD558\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\G-\uD55C\uAD6D\uC774 \uADF8\uB9AC\uC6B8 \uB550 \uC11C\uBC84\uB85C \uC811\uC18D\uD558\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -109,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\N-\uACF1\uC148.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\N-\uACF1\uC148.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\L-\uC8FC\uBABD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|solutionrelative:StudyGroup\\I-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5744E4B6-3E58-459A-803C-016888F2B85F}|StudyGroup\\StudyGroup.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uD330\uB9B0\uB4DC\uB86C\uC778\uC9C0 \uD655\uC778\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -138,33 +146,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
-              "RelativeToolTip": "StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "\uBC31\uC870\uC758 \uD638\uC218.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp",
+              "RelativeToolTip": "StudyGroup\\\uBC31\uC870\uC758 \uD638\uC218.cpp",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-16T04:10:57.295Z",
+              "WhenOpened": "2025-07-23T04:26:21.256Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\uC5F0\uAD6C\uC18C.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
-              "RelativeToolTip": "StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "\uCE58\uC988.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCE58\uC988.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uCE58\uC988.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCE58\uC988.cpp",
+              "RelativeToolTip": "StudyGroup\\\uCE58\uC988.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-22T01:22:34.632Z",
+              "WhenOpened": "2025-07-21T12:00:13.312Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -174,45 +182,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
+              "RelativeToolTip": "StudyGroup\\D-\uC601\uC5ED\uAD6C\uD558\uAE30.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T04:10:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uC5F0\uAD6C\uC18C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
+              "RelativeToolTip": "StudyGroup\\\uC5F0\uAD6C\uC18C.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T01:22:34.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
+              "RelativeToolTip": "StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T13:46:05.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "I-\uC218\uD559\uC219\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
+              "RelativeToolTip": "StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T09:57:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NBA\uB18D\uAD6C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\NBA\uB18D\uAD6C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp",
+              "RelativeToolTip": "StudyGroup\\NBA\uB18D\uAD6C.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T22:50:50.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "R-\uD2B8\uB9AC.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\R-\uD2B8\uB9AC.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp",
+              "RelativeToolTip": "StudyGroup\\R-\uD2B8\uB9AC.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T07:38:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uAD04\uD638.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uAD04\uD638.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp",
+              "RelativeToolTip": "StudyGroup\\\uAD04\uD638.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T06:02:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uAF43\uAE38.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAF43\uAE38.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uAF43\uAE38.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAF43\uAE38.cpp",
+              "RelativeToolTip": "StudyGroup\\\uAF43\uAE38.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T02:57:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "H-\uC218\uC5F4.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\H-\uC218\uC5F4.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp",
+              "RelativeToolTip": "StudyGroup\\H-\uC218\uC5F4.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-12T12:47:50.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
+              "RelativeToolTip": "StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T03:40:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
+              "RelativeToolTip": "StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T04:09:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "G-\uBE48\uB3C4\uC815\uB82C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
+              "RelativeToolTip": "StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T02:36:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
+              "RelativeToolTip": "StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T00:31:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "L-\uC8FC\uBABD.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\L-\uC8FC\uBABD.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp",
+              "RelativeToolTip": "StudyGroup\\L-\uC8FC\uBABD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-13T12:51:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
+              "RelativeToolTip": "StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-13T09:20:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "I-1.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\I-1.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp",
+              "RelativeToolTip": "StudyGroup\\I-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T03:38:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
+              "RelativeToolTip": "StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-13T07:57:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "C-\uC548\uC804\uC601\uC5ED.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
+              "RelativeToolTip": "StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T02:20:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
+              "RelativeToolTip": "StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T04:53:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "\uC624\uD070\uC218.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC624\uD070\uC218.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\\uC624\uD070\uC218.cpp",
               "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC624\uD070\uC218.cpp",
               "RelativeToolTip": "StudyGroup\\\uC624\uD070\uC218.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-22T06:22:00.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "\uCE58\uC988.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCE58\uC988.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\\uCE58\uC988.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCE58\uC988.cpp",
-              "RelativeToolTip": "StudyGroup\\\uCE58\uC988.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE8AAAAKAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
+              "RelativeDocumentMoniker": "StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
+              "RelativeToolTip": "StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-21T12:00:13.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T00:16:05.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "G-\uBE48\uB3C4\uC815\uB82C.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
-              "RelativeToolTip": "StudyGroup\\G-\uBE48\uB3C4\uC815\uB82C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T02:36:38.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\B-\uC720\uAE30\uB18D\uBC30\uCD94.cpp",
@@ -224,70 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "C-\uC548\uC804\uC601\uC5ED.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
-              "RelativeToolTip": "StudyGroup\\C-\uC548\uC804\uC601\uC5ED.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-16T02:20:31.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
-              "RelativeToolTip": "StudyGroup\\A-\uBBF8\uB85C\uD0D0\uC0C9.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-16T00:16:05.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
-              "RelativeToolTip": "StudyGroup\\H-\uBE44\uBC00\uBC88\uD638 \uBC1C\uC74C\uD558\uAE30.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T04:09:49.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
-              "RelativeToolTip": "StudyGroup\\F-\uC0AC\uACFC \uB2F4\uAE30 \uAC8C\uC784.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T03:40:21.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\uAD04\uD638.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\\uAD04\uD638.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uAD04\uD638.cpp",
-              "RelativeToolTip": "StudyGroup\\\uAD04\uD638.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-20T06:02:23.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "\uCFFC\uB4DC\uD2B8\uB9AC.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp",
@@ -295,60 +474,11 @@
               "RelativeToolTip": "StudyGroup\\\uCFFC\uB4DC\uD2B8\uB9AC.cpp",
               "ViewState": "AgIAACsAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-21T09:58:35.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T09:58:35.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "I-\uC218\uD559\uC219\uC81C.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
-              "RelativeToolTip": "StudyGroup\\I-\uC218\uD559\uC219\uC81C.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T09:57:12.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
-              "RelativeToolTip": "StudyGroup\\J-\uAE30\uC0C1\uCE90\uC2A4\uD130.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T13:46:05.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NBA\uB18D\uAD6C.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\NBA\uB18D\uAD6C.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\NBA\uB18D\uAD6C.cpp",
-              "RelativeToolTip": "StudyGroup\\NBA\uB18D\uAD6C.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T22:50:50.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "R-\uD2B8\uB9AC.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\R-\uD2B8\uB9AC.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\R-\uD2B8\uB9AC.cpp",
-              "RelativeToolTip": "StudyGroup\\R-\uD2B8\uB9AC.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-15T07:38:02.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\\uADE0\uD615\uC7A1\uD78C \uC138\uC0C1.cpp",
@@ -360,19 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
-              "RelativeToolTip": "StudyGroup\\\uC601\uD654\uAC10\uB3C5 \uC20C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-20T04:53:50.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "N-\uACF1\uC148.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\N-\uACF1\uC148.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\N-\uACF1\uC148.cpp",
@@ -384,19 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "I-1.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\I-1.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-1.cpp",
-              "RelativeToolTip": "StudyGroup\\I-1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T03:38:56.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "E-\uB18D\uAD6C\uACBD\uAE30.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\E-\uB18D\uAD6C\uACBD\uAE30.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\E-\uB18D\uAD6C\uACBD\uAE30.cpp",
@@ -408,67 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
-              "RelativeToolTip": "StudyGroup\\M-\uC88B\uC740 \uB2E8\uC5B4.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-14T00:31:25.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "L-\uC8FC\uBABD.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\L-\uC8FC\uBABD.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\L-\uC8FC\uBABD.cpp",
-              "RelativeToolTip": "StudyGroup\\L-\uC8FC\uBABD.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-13T12:51:11.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "H-\uC218\uC5F4.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\H-\uC218\uC5F4.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\H-\uC218\uC5F4.cpp",
-              "RelativeToolTip": "StudyGroup\\H-\uC218\uC5F4.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-12T12:47:50.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeToolTip": "StudyGroup\\K-\uD330\uB9B0\uB4DC\uB86C \uB9CC\uB4E4\uAE30.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-13T09:20:15.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
-              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
-              "RelativeDocumentMoniker": "StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
-              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
-              "RelativeToolTip": "StudyGroup\\J-\uD328\uC158\uC655 \uC2E0\uD574\uBE48.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-13T07:57:50.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "I-\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\I-\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\I-\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C.cpp",
@@ -480,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "G-\uD55C\uAD6D\uC774 \uADF8\uB9AC\uC6B8 \uB550 \uC11C\uBC84\uB85C \uC811\uC18D\uD558\uC9C0.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\G-\uD55C\uAD6D\uC774 \uADF8\uB9AC\uC6B8 \uB550 \uC11C\uBC84\uB85C \uC811\uC18D\uD558\uC9C0.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\G-\uD55C\uAD6D\uC774 \uADF8\uB9AC\uC6B8 \uB550 \uC11C\uBC84\uB85C \uC811\uC18D\uD558\uC9C0.cpp",
@@ -492,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "F-ROT13.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\F-ROT13.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\F-ROT13.cpp",
@@ -504,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "D-\uD330\uB9B0\uB4DC\uB86C\uC778\uC9C0 \uD655\uC778\uD558\uAE30.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\D-\uD330\uB9B0\uB4DC\uB86C\uC778\uC9C0 \uD655\uC778\uD558\uAE30.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\D-\uD330\uB9B0\uB4DC\uB86C\uC778\uC9C0 \uD655\uC778\uD558\uAE30.cpp",
@@ -516,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "B-\uC54C\uD30C\uBCB3\uAC1C\uC218.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\B-\uC54C\uD30C\uBCB3\uAC1C\uC218.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\B-\uC54C\uD30C\uBCB3\uAC1C\uC218.cpp",
@@ -528,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "A-\uC77C\uACF1\uB09C\uC7C1\uC774.cpp",
               "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\StudyGroup\\StudyGroup\\StudyGroup\\A-\uC77C\uACF1\uB09C\uC7C1\uC774.cpp",
               "RelativeDocumentMoniker": "StudyGroup\\A-\uC77C\uACF1\uB09C\uC7C1\uC774.cpp",

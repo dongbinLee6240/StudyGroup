@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\1주차">
       <UniqueIdentifier>{f34b41e6-c090-46ab-aa0f-b1160e586ea8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2주차">
+      <UniqueIdentifier>{08e844ee-98da-4eff-b6b6-b5d6dcf0d63c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A-일곱난쟁이.cpp">
@@ -119,6 +122,12 @@
     </ClCompile>
     <ClCompile Include="오큰수.cpp">
       <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="꽃길.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="백조의 호수.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
