@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\2주차">
       <UniqueIdentifier>{08e844ee-98da-4eff-b6b6-b5d6dcf0d63c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3주차">
+      <UniqueIdentifier>{97a98aec-1d37-42d5-baca-2ba87d8ab668}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A-일곱난쟁이.cpp">
@@ -126,8 +129,35 @@
     <ClCompile Include="꽃길.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
+    <ClCompile Include="컴백홈.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
     <ClCompile Include="백조의 호수.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="부등호.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="완전이진트리.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="보물섬.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="뮤탈리스크.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="치킨배달.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="피카츄.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="다이어트.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="AC.cpp">
+      <Filter>소스 파일\3주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

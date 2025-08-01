@@ -53,7 +53,8 @@ void remove(int y, int x)
 
 void dfs(int depth, int sum) 
 {
-    if (depth == 3) {
+    if (depth == 3) 
+    {
         result = min(result, sum);
         return;
     }
@@ -75,7 +76,8 @@ void dfs(int depth, int sum)
     }
 }
 
-int main() {
+int main() 
+{
     ios::sync_with_stdio(false);
     cin.tie(0); cout.tie(0);
 
