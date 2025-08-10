@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\3주차">
       <UniqueIdentifier>{97a98aec-1d37-42d5-baca-2ba87d8ab668}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4주차">
+      <UniqueIdentifier>{510cfbe3-90d7-4cfd-9b20-4e558689ca5f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A-일곱난쟁이.cpp">
@@ -158,6 +161,21 @@
     </ClCompile>
     <ClCompile Include="AC.cpp">
       <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="성곽.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="가르침.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="집합.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="회의실 배정.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="미세먼지　안녕.cpp">
+      <Filter>소스 파일\4주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
