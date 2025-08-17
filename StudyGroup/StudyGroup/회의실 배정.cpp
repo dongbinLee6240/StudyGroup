@@ -19,7 +19,8 @@ int main() {
     cin >> N;
 
     vector<pair<int, int>> meetings(N);
-    for (int i = 0; i < N; ++i) {
+    for (int i = 0; i < N; ++i) 
+    {
         cin >> meetings[i].first >> meetings[i].second;
     }
 
@@ -29,9 +30,11 @@ int main() {
     int count = 0;
     int end_time = 0;
 
-    for (int i = 0; i < N; ++i) {
-        if (meetings[i].first >= end_time) {
-            ++count;
+    for (int i = 0; i < N; ++i) 
+    {
+        if (meetings[i].first >= end_time) 
+        {
+            count++;
             end_time = meetings[i].second;
         }
     }

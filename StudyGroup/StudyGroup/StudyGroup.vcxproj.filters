@@ -177,5 +177,23 @@
     <ClCompile Include="미세먼지　안녕.cpp">
       <Filter>소스 파일\4주차</Filter>
     </ClCompile>
+    <ClCompile Include="톱니바퀴(2).cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="순회강연.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="컵라면.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="흙길 보수.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="소가 길을 건너간 이유3.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 폭발.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
