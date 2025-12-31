@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\4주차">
       <UniqueIdentifier>{510cfbe3-90d7-4cfd-9b20-4e558689ca5f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5주차">
+      <UniqueIdentifier>{3fbaba08-d81c-49eb-938e-110b3a2c7b28}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A-일곱난쟁이.cpp">
@@ -200,6 +203,12 @@
     </ClCompile>
     <ClCompile Include="두 수의 합.cpp">
       <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 돌리기.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="드래곤앤던전.cpp">
+      <Filter>소스 파일\5주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
